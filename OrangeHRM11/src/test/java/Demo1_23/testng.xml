@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+
+  <test  name="Test">
+   <parameter name="Browser1" value="Chrome"/> 
+  <parameter name="UserName1" value="Admin"/> 
+  <parameter name="Password1" value="admin123"/> 
+  <parameter name="Nationality1" value="Indian669"/>
+    <classes>
+      <class name="Demo1_23.TC01_login_static_parameters2"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

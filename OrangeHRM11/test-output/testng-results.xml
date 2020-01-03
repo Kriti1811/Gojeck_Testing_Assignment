@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-01-03T10:02:30 IST" name="Suite" finished-at="2020-01-03T10:03:02 IST" duration-ms="32127">
+    <groups>
+    </groups>
+    <test started-at="2020-01-03T10:02:30 IST" name="Test1" finished-at="2020-01-03T10:03:02 IST" duration-ms="32127">
+      <class name="Day_012_TestNG_Paraneters.TC02_Login_Static_Paarameters1">
+        <test-method signature="Login_Test(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Day_012_TestNG_Paraneters.TC02_Login_Static_Paarameters1@69b2283a]" started-at="2020-01-03T10:02:30 IST" name="Login_Test" finished-at="2020-01-03T10:03:02 IST" duration-ms="32080" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Indian669]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_Test -->
+      </class> <!-- Day_012_TestNG_Paraneters.TC02_Login_Static_Paarameters1 -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
